@@ -57,7 +57,7 @@ And others:
 
 <a id="mission"></a>
 ## Mission:
-My mission is to make complex microfrontend app as much as possible to have many cases for developers.
+My mission is to make complex microfrontend app to have many use cases for developers.
 
 <a id="demo"></a>
 ## Demo: ▶
