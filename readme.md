@@ -43,16 +43,16 @@ For version 13 without standalone components use [13.x branch](https://github.co
 
 <a id="features"></a>
 ## Features:   
-☑ Multiple Angular applications on different domains   
-☑ Shared UI components and utils  
-☑ NgRx Store state management on each application   
-☑ Communication between angular applications   
-☑ Routing between applications     
-☑ Server Side Rendering   
+✅ Multiple Angular applications on different domains   
+✅ Shared UI components and utils  
+✅ NgRx Store state management on each application   
+✅ Communication between angular applications   
+✅ Routing between applications     
+✅ Server Side Rendering   
 
 And others:   
-☑ Theming   
-☑ Keyboard shortcuts
+✅ Theming   
+✅ Keyboard shortcuts
 
 
 <a id="mission"></a>
